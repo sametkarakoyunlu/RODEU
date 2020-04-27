@@ -25,6 +25,7 @@ Optimizing Linkage Editor (V.10.02.00.000)        26-Apr-2019 19:33:42
 -input="./src/mylib/timers.obj"
 
 *** Error information ***
+**deneme**
 
 ** L2310 (E) Undefined external symbol "_Check_EightBits" referenced in ".\src\LineFollower_v1_0.obj"
 ** L2310 (E) Undefined external symbol "_Check_Oval" referenced in ".\src\LineFollower_v1_0.obj"
